@@ -7,7 +7,6 @@ public class User {
     private String password;
     private String name;
 
-
     public Long getId() {
         return id;
     }

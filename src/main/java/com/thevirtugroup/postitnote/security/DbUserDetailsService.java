@@ -1,5 +1,6 @@
 package com.thevirtugroup.postitnote.security;
 
+import com.thevirtugroup.postitnote.model.User;
 import com.thevirtugroup.postitnote.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
